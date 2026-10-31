@@ -30,7 +30,7 @@ output average
 
 End
 
-ocean\_levels.cpp
+ocean_levels.cpp
 
 Start
 
@@ -63,10 +63,10 @@ Compile and run each program separately
 Use g++
 
 ```
-g++ -std=c++17 -Wall -Wextra diamond.cpp -o diamond
-./diamond
-g++ -std=c++17 -Wall -Wextra game_time.cpp -o game_time
-./game_time
+g++ -std=c++17 -Wall -Wextra average.cpp -o average
+./average
+g++ -std=c++17 -Wall -Wextra ocean_levels.cpp -o ocean_levels
+./ocean_levels
 ```
 
 ## **Testing**
